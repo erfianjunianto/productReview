@@ -61,12 +61,13 @@ export default class Register extends Component {
     );
   }
 
+
   render() {
     return (
       <NativeBaseProvider>
         <ScrollView>
           <Center>
-            <Text bold fontSize="4xl">Formulir Pendaftaran</Text>
+            <Text bold fontSize="4xl">Formulir Pendaftaran BARU</Text>
           </Center>
           {/* <FormRegister /> */}
           <Box alignItems="center">
